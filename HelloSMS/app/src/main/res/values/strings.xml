@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloSMS</string>
+    <string name="my_name">See Meng Shen</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+</resources>
